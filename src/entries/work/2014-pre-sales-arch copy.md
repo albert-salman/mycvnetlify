@@ -11,6 +11,8 @@ end:
 Disaster recovery, cloud and virtualization technologies, storage and data protection/archiving/compliance, various OS platforms;
 
 ***Description***
+Work in tight cooperation with pre-sales and sales to find out business and IT needs, provide solution consultancy, technical guidance, risk and cost estimations etc to close new deals and to ensure contract renewals.
+
 Marketing and sales materials development (cost models, service descriptions, battle cards, brochures etc)
 
 Understanding customers’ business and commercial issues and contributing key insights;
