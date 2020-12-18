@@ -8,12 +8,19 @@
     "telephone": "+7 927 456 72 02",
     "website": "https://blog.thitool.org",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "TOGAF",
+        "Agile",
+        "CI/CD",
+        "Systems Engineering",
+        "Systems Analysis",
+        "IT architecture",
+        "IT Service Management",
+        "IT Service Design&Development",
+        "Kubernetes",
+        "Microservices"
     ],
     "languages": [
         {
