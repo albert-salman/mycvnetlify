@@ -1,5 +1,5 @@
 ---
-title: non-degree, Mastering Design Thinking
+title: Mastering Design Thinking
 organization: MIT Sloan School of Management
 organizationUrl: https://mitsloan.mit.edu/
 location: Online
