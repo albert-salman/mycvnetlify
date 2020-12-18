@@ -54,6 +54,13 @@ layout: base
         </div>
     {% endif %}
 
+        <section class="section" id="section-certification">
+            <h2 class="section__title">{{ strings.titles.certification }}</h2>
+            {% set entries = collections.certification %}
+            {% set microformat = "p-education" %}
+            {% include "entrylist.njk" %}
+        </section>
+
     {% if collections.custom.length %}
         {% set custom = collections.custom|first %}
         <section class="section" id="section-custom">
