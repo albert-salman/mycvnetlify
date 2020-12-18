@@ -1,9 +1,9 @@
 ---
-title: Agile practices capability establishment
+title: Business agility practices technical development
 organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
-start: 2019-03-01
+start: 2020-03-01
 end: 
 ---
 

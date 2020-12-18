@@ -7,19 +7,15 @@
     "email": "albert.salman@entarch.ru",
     "telephone": "+7 927 456 72 02",
     "skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "TOGAF",
-        "Agile",
-        "CI/CD",
-        "Systems Engineering",
-        "Systems Analysis",
-        "IT architecture",
-        "IT Service Management",
+        "Systems Analysis & Engineering",
+        "Enterprise Architecture (TOGAF, Archimate)",
+        "Public Clouds (AWS, Azure, GCP, OCI)",
+        "Private Clouds (VMware, Openstack)",
+        "Agile (Kanban, Scrum)",
+        "Lean&DevOps(IaC, CI/CD, DevSecOps1)",
         "IT Service Design&Development",
-        "Kubernetes",
-        "Microservices"
+        "Application Architecture (microservices, containers etc)",
+        "Soft Skills(Achieving Together,Changing and Improving,Commercial Focus,Developing Capability,Drive for Results,Emotional Resilience,Influence and Impact,Leading and Inspiring,Putting the Customer First,Thinking Analytically,Thinking Strategically)"
     ],
     "languages": [
         {
@@ -35,7 +31,7 @@
         {
             "name": "LinkedIn",
             "user": "AlbertSalman",
-            "url": "https://www.linkedin.com/in/albertsalman"
+            "url": "https://www.linkedin.com/in/albertvsalman"
         },
         {
             "name": "Skype",
