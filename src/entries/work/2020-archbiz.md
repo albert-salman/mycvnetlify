@@ -9,7 +9,7 @@ end:
 
 ***Methodologies / practices***
 
-SAFe, SRE, Infrastructure as Code (IaC), Lean
+SAFe (and DaD/LeSS-aware), SRE, Lean, Anything as Code
 
 ***Technologies***
 
@@ -21,13 +21,13 @@ Emerging business, data and application architecture competencies present to sup
 
 Notable achievements/activities:
 
-•	Business Agility by means of cloud adoption, digital transformatiom thought leadership;
+•	Business Agility by means of cloud adoption, digital transformation thought leadership;
 
 •	Track evolving trends in cloud provider ecosystems, evaluate and create adoption strategy if feasible;
 
 •	*-as-Code, Digital Twins, AI/ML, data exploration and visualization research;
 
-•	IaC practices author in corporate IaC library;
+•	SAFe and *-as-Code practices author in corporate libraries;
 
 •	SRE practices research (namely Chaos Engineering);
 

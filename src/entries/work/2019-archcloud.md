@@ -17,7 +17,7 @@ AWS/Azure/GCP/OCI public clouds, VMware/Openstack private clouds, ServiceNow
 
 ***Description***
 
-Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), application modernization, datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
+Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe, DaD/LeSS-aware) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), application modernization, datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
 
 Developing cloud architectures and integration solutions.
 
