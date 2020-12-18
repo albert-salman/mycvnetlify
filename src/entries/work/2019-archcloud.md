@@ -9,7 +9,7 @@ end:
 
 ***Methodologies / practices***
 
-Agile (Kanban, Scrum), TOGAF
+Agile (Kanban, Scrum), Cloud Adoption Frameworks, TOGAF
 
 ***Technologies***
 
@@ -17,11 +17,11 @@ AWS/Azure/GCP/OCI public clouds, VMware/Openstack private clouds, ServiceNow
 
 ***Description***
 
-Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
+Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), application modernization, datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
 
 Developing cloud architectures and integration solutions.
 
-Notable projects:
+Notable development projects:
 
 •	Lead Architect, migration to Azure cloud (execution of discovery, assessment, planning, architecture and implementation, planning and supervision of migration);
 
@@ -32,6 +32,7 @@ Notable projects:
 •	OpenStack cloud Backup-as-a-Service data protection solution;
 
 Notable integration projects:
+
 •	Azure Monitor to ServiceNow custom alerting integration using Azure Logic Apps, REST APIs etc;
 
 •	vRealize to ServiceNow alerting integration (using incoming and outgoing Web Services (REST APIs), ServiceNow Business Rules and Scheduled Jobs, custom integration watchdog mechanism);
