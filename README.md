@@ -211,6 +211,8 @@ There are a few hardcoded english strings used in the template, such as the sect
 
 ## Credits
 
+Thanks to [Max Böck](https://github.com/maxboeck/resume) for awesome template.
+
 Thanks to [Eric Bailey](https://ericwbailey.design/) for his post ["How to not make a résumé in React"](https://ericwbailey.design/writing/how-to-not-make-a-resume-in-react.html), which gave me the idea.
 
 ## Colophon
