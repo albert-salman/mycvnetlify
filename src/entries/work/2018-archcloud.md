@@ -7,13 +7,13 @@ start: 2018-07-01
 end: 
 ---
 
-*** Methodologies / practices ***
+***Methodologies / practices***
 Agile (Kanban), TOGAF
 
-*** Technologies ***
+***Technologies***
 AWS/Azure/Openstack/GCP public clouds, vSphere vRealize suite, ServiceNow, Commvault data management software, various OS.
 
-*** Description ***
+***Description***
 Developing cloud architectures and integration solutions.
 Notable development projects:
 * Cloud platform architecture designs

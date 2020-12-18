@@ -7,10 +7,10 @@ start: 2014-06-01
 end: 
 ---
 
-*** Technologies ***
+***Technologies***
 Disaster recovery, cloud and virtualization technologies, storage and data protection/archiving/compliance, various OS platforms;
 
-*** Description ***
+***Description***
 Marketing and sales materials development (cost models, service descriptions, battle cards, brochures etc)
 
 Understanding customers’ business and commercial issues and contributing key insights;

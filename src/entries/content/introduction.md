@@ -3,14 +3,9 @@ tags: introduction
 title: About Me
 ---
 
-Customer Solution Architect with more than 10 years of experience in IT consulting, solutions design, implementation and support of large IT infrastructures at European and Russian enterprises.
-
+Solution Architect with more than 10 years of experience in IT consulting, solutions design, implementation and support of large IT infrastructures at global and local enterprises.
 
 Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
-
-
-Strong infrastructure systems architecture competencies being constantly developed for cloud solutions (on AWS, Azure, Openstack, Oracle Cloud, Google Cloud Platform), multi-petabyte storage environments, heterogeneous backup & recovery, compliance and archiving, compute and storage virtualization, networking and network virtualization.
-
 
 Emerging business, data and application architecture competencies present to support enterprise cloud adoption initiatives (using vendor cloud adoption frameworks), business digitalization (cloud, AI/ML, big data, CI/CD, BI etc) support for all scales of IT landscapes (legacy and modern application environments), migration projects execution (on-premise to cloud, cross-cloud, on-prem to on-prem).
 
