@@ -24,10 +24,14 @@ Developing cloud architectures and integration solutions.
 Notable projects:
 
 •	Lead Architect, migration to Azure cloud (execution of discovery, assessment, planning, architecture and implementation, planning and supervision of migration);
-•	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review)
+
+•	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review);
+
 •	Cloud Management Platform reference architecture development and market research;
+
 •	OpenStack cloud Backup-as-a-Service data protection solution;
 
 Notable integration projects:
-•	Azure Monitor to ServiceNow custom alerting integration using Azure Logic Apps, REST APIs etc
+•	Azure Monitor to ServiceNow custom alerting integration using Azure Logic Apps, REST APIs etc;
+
 •	vRealize to ServiceNow alerting integration (using incoming and outgoing Web Services (REST APIs), ServiceNow Business Rules and Scheduled Jobs, custom integration watchdog mechanism);

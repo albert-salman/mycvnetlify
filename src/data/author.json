@@ -12,9 +12,9 @@
         "Public Clouds (AWS, Azure, GCP, OCI)",
         "Private Clouds (VMware, Openstack)",
         "Agile (Kanban, Scrum)",
-        "Lean&DevOps(IaC, CI/CD, DevSecOps1)",
+        "Lean&DevOps(IaC, CI/CD, DevSecOps)",
         "IT Service Design&Development",
-        "Application Architecture (microservices, containers etc)",
+        "Application Architecture (multi-tier, CQRS, batch, big data, microservices, containers etc)",
         "Soft Skills(Achieving Together,Changing and Improving,Commercial Focus,Developing Capability,Drive for Results,Emotional Resilience,Influence and Impact,Leading and Inspiring,Putting the Customer First,Thinking Analytically,Thinking Strategically)"
     ],
     "languages": [

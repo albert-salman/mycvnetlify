@@ -8,9 +8,11 @@ end:
 ---
 
 ***Technologies***
+
 Disaster recovery, cloud and virtualization technologies, storage and data protection/archiving/compliance, various OS platforms;
 
 ***Description***
+
 Work in tight cooperation with pre-sales and sales to find out business and IT needs, provide solution consultancy, technical guidance, risk and cost estimations etc to close new deals and to ensure contract renewals.
 
 Marketing and sales materials development (cost models, service descriptions, battle cards, brochures etc)
@@ -38,7 +40,11 @@ Positive feedback from customer, Fujitsu accounts and sales team;
 Notable pre-sales projects:
 
 •	World-wide tyre manufacturer (2 renewals, 50+ FTE) and Car manufacturer retail in Europe (new offer submitted, 30+ FTE) contracts renewal, helping Benelux bid team, taking part in contract alignment with new technical solution sold and old solution transformation/migration plan, cost estimations, risk estimations;
+
 •	World-wide luxury product manufacturer (1 renewal) approx. 80 FTE. Transformation and BAU estimations in storage and data protection areas (SD, SoW), contributing to RAID log, risk mitigation analysis;
+
 •	World-wide luxury wearables manufacturer transformation and BAU estimations in storage and data protection areas (SD, SoW) based on scattered and incomplete information, contributing to RAID log, risk mitigation analysis;
+
 •	Russian Post (100+ FTE) transformation and BAU estimations in server platform, virtualization, storage and data protection areas (SD, SoW), contributing to RAID log, risk mitigation analysis;
+
 •	World-wide drug generics manufacturer, Russian branch, datacenter consultancy, contributing to definition of customers’ overall IT architecture;
