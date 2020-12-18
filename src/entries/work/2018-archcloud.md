@@ -8,7 +8,7 @@ end:
 ---
 
 ***Methodologies / practices***
-Agile (Kanban), TOGAF
+Agile (Kanban, Scrum), TOGAF
 
 ***Technologies***
 AWS/Azure/Openstack/GCP public clouds, vSphere vRealize suite, ServiceNow, Commvault data management software, various OS.
@@ -17,12 +17,13 @@ AWS/Azure/Openstack/GCP public clouds, vSphere vRealize suite, ServiceNow, Commv
 Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), datacenter strategy development and optimization, disaster recovery / business continuity, information/data management, compliance management.
 
 Developing cloud architectures and integration solutions.
-Notable development projects:
 
-* Cloud platform architecture designs
-* Cloud migration projects execution
-* Cloud Management Platform reference architecture development and market research;
-* OpenStack cloud Backup-as-a-Service data protection solution;
+Notable development projects:
+•	Cloud platform architecture designs
+•	Cloud migration projects execution
+•	Cloud Management Platform reference architecture development and market research;
+•	OpenStack cloud Backup-as-a-Service data protection solution;
+
 Notable integration projects:
-* Azure Monitor to ServiceNow alerting integration using Azure Logic Apps, REST APIs etc
-* vRealize to ServiceNow alerting integration (using incoming and outgoing Web Services (REST APIs), Business Rules and Scheduled Jobs, custom integration watchdog mechanism);
+•	Azure Monitor to ServiceNow alerting integration using Azure Logic Apps, REST APIs etc
+•	vRealize to ServiceNow alerting integration (using incoming and outgoing Web Services (REST APIs), Business Rules and Scheduled Jobs, custom integration watchdog mechanism);
