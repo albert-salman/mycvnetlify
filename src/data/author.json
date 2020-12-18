@@ -30,6 +30,11 @@
             "name": "LinkedIn",
             "user": "AlbertSalman",
             "url": "https://www.linkedin.com/in/albertsalman"
+        },
+        {
+            "name": "Skype",
+            "user": "zhjuve",
+            "url": "skype:zhjuve?chat"
         }
     ]
 }
