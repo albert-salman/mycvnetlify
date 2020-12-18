@@ -1,16 +1,16 @@
 ---
 title: Principal Systems Engineer (last)
-organization: Fujitsu Services
+organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2008-08-01
 end: 2014-06-01
 ---
 
-#### Technologies
+### Technologies
 Data protection/management software, compute and storage, networking, various OS platforms, HA clustering, others
 
-#### Description
+### Description
 The technical lead of engineers for virtualization, storage and data protection
 Solving complex problems in customer environments
 Building reporting systems for capacity and performance of technical solutions
