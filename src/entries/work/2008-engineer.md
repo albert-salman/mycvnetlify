@@ -7,10 +7,13 @@ start: 2008-08-01
 end: 2014-06-01
 ---
 
-### Technologies
+***Methodologies / practices***
+ITIL/ISO20000, ISO27001
+
+***Technologies***
 Data protection/management software, compute and storage, networking, various OS platforms, HA clustering, others
 
-### Description
+***Description***
 Continuously consult and train colleagues.
 The technical lead of engineers for virtualization, storage and data protection.
 Solving complex problems in customer environments.
