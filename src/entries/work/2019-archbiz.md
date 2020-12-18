@@ -7,13 +7,13 @@ start: 2019-07-01
 end: 
 ---
 
-### Methodologies / practices
+*** Methodologies / practices ***
 SAFe, SRE, Infrastructure as Code (IaC).
 
-### Technologies
+*** Technologies ***
 Clouds, various IaC and CI/CD tools.
 
-### Description
+*** Description ***
 Developing business digitalization practices.
 
 Notable achievements/activities:
