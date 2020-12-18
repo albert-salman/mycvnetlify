@@ -18,6 +18,7 @@ Various IT governance, architecture, project management and ITSM competencies fa
 
 Developing cloud architectures and integration solutions.
 Notable development projects:
+
 * Cloud platform architecture designs
 * Cloud migration projects execution
 * Cloud Management Platform reference architecture development and market research;

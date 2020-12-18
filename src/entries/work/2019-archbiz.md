@@ -19,6 +19,7 @@ Emerging business, data and application architecture competencies present to sup
 Developing business digitalization practices.
 
 Notable achievements/activities:
+
 * IaC practices author in corporate IaC library;
 * SRE practices research (namely Chaos Engineering);
 * IaC audits and best practice advisory;
