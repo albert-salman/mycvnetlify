@@ -1,6 +1,7 @@
 ---
 title: AWS Certified Architect - Associate (2018)
-organization: Amazon
+organization: Amazon transcript
+organizationUrl: https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=2R261HTKK144QV9V
 start: 2018-09-01
 end: 
 ---
