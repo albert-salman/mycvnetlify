@@ -27,7 +27,7 @@ Estimating costs and risks, solution design/implementation efforts, possible ser
 
 Customer engagement, identifying real customer needs (not only ones directly communicated);
 
-Having sector knowledge and business function knowledge to earn credibility from customer;
+Having sector knowledge and business capability/function knowledge to earn credibility from customer;
 
 Service and technology domain expertise;
 

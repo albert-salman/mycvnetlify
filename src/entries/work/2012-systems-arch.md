@@ -8,7 +8,9 @@ end: 2014-06-01
 ---
 
 ***Technologies***
+
 Storage, data protection, compute virtualization, HA clustering
 
 ***Description***
+
 Design and implement compute, storage and backup infrastructure based on industry leading products from Fujitsu, Netapp, Microsoft, Veritas, VMware etc.

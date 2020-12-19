@@ -9,7 +9,7 @@ end: 2017-07-01
 
 ***Methodologies / practices***
 
-TOGAF, PRINCE2
+TOGAF, PRINCE2, ITIL
 
 ***Technologies***
 
