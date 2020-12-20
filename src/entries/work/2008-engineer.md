@@ -17,7 +17,7 @@ Data protection/management software, compute and storage, networking, various OS
 
 ***Description***
 
-Started as junior Wintel Engineer and gradually promoted to Principal Systems Engineer with a successful track of design, implementation and support projects for many European and several Russian customers:
+Started as junior Wintel Engineer and gradually achieved Principal Systems Engineer position with a successful track of design, implementation and support projects for many European and several Russian customers:
 
 •	The technical lead of engineers for virtualization, storage and data protection;
 
