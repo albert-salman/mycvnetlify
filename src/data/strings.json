@@ -1,8 +1,9 @@
 {
     "titles": {
-        "experience": "Work Experience",
+        "experience": "Work Experience (Roles)",
         "education": "Education & Trainings",
         "certification": "Certification",
+        "projects": "Work Experience (Projects)",
         "skills": "Skills",
         "languages": "Languages"
     },

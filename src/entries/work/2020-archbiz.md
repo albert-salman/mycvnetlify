@@ -1,5 +1,5 @@
 ---
-title: Business agility practices technical development
+title: Business agility practices technical developer
 organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
@@ -21,7 +21,7 @@ Emerging business, data and application architecture competencies present to sup
 
 Notable achievements/activities:
 
-•	Business Agility by means of cloud adoption, digital transformation thought leadership;
+•	Business Agility by means of cloud adoption, digital transformation thought leadership, speaking business language whereas driving technical adoption;
 
 •	Track evolving trends in cloud provider ecosystems, evaluate and create adoption strategy if feasible;
 

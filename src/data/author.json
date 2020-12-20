@@ -39,6 +39,11 @@
             "name": "Skype",
             "user": "zhjuve",
             "url": "skype:zhjuve?chat"
+        },
+        {
+            "name": "WhatsApp",
+            "user": "Albert Salman",
+            "url": "https://wa.me/79047672607"
         }
     ]
 }

@@ -61,6 +61,13 @@ layout: base
             {% include "entrylist.njk" %}
         </section>
 
+        <section class="section" id="section-projects">
+            <h2 class="section__title">{{ strings.titles.projects }}</h2>
+            {% set entries = collections.projects %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist.njk" %}
+        </section>
+
     {% if collections.custom.length %}
         {% set custom = collections.custom|first %}
         <section class="section" id="section-custom">
