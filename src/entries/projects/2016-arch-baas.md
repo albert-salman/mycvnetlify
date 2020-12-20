@@ -4,7 +4,7 @@ organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2016-11-01
-end: 2017-07-01 
+end: 2017-11-01 
 ---
 
 ***Methodologies / practices***
@@ -26,6 +26,8 @@ Project highlights:
 •	Multi-tenant data protection and management environment;
 
 •	Development (Architecture Overview Document, HLDs/LLDs), implementation and consulting on data protection and management solution;
+
+•	Leading team to deliver full solution; 
 
 •	Sales, marketing and service documentation development;
 

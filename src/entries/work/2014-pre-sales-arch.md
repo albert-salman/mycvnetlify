@@ -9,7 +9,7 @@ end:
 
 ***Technologies***
 
-Disaster recovery, cloud and virtualization technologies, storage and data protection/archiving/compliance, various OS platforms;
+Cloud technologies, Business Continuity, Disaster Recovery, storage and data protection/archiving/compliance, various OS platforms;
 
 ***Description***
 

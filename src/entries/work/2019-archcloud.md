@@ -23,9 +23,11 @@ Developing cloud architectures and integration solutions, ensuring solutions exc
 
 Notable development projects:
 
+•	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review);
+
 •	Lead Architect, migration to Azure cloud (execution of discovery, assessment, planning, architecture and implementation, planning and supervision of migration);
 
-•	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review);
+•	Lead Architect, cloud-based data protection and management solution (solution development, service development);
 
 •	Cloud Management Platform reference architecture development and market research;
 
