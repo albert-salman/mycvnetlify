@@ -26,4 +26,6 @@ Notable achievements:
 
 •	Re-building provider credibility by ability to execute exit project in short timeframes in multi-platform environment;
 
-•	Building and using own infrastructure assessment and IT landscape visualization toolset;
+•	Building and using own infrastructure assessment and whole IT landscape visualization toolset (ThiTool);
+
+![Architecture](/assets/images/arch2.JPG)

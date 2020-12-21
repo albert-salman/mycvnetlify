@@ -32,3 +32,5 @@ Project highlights:
 •	Sales, marketing and service documentation development;
 
 •	Roadmap development;
+
+![Architecture](/assets/images/arch1.JPG)
