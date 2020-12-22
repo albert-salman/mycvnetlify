@@ -28,4 +28,5 @@ Notable achievements:
 
 •	Building and using own infrastructure assessment and whole IT landscape visualization toolset (ThiTool);
 
-![Architecture](/assets/images/arch2.JPG)
+![ArchitectureAzure](/assets/images/archsel.JPG)
+![ThiToolOverview](/assets/images/arch2.JPG)
