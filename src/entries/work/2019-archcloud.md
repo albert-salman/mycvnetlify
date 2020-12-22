@@ -19,9 +19,9 @@ AWS/Azure/GCP/OCI public clouds, VMware/Openstack private clouds, ServiceNow
 
 Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and hybrid cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe, DaD/LeSS-aware) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), application modernization (for apps on any stage of SDLC), datacenter optimization and strategy development, disaster recovery / business continuity, information/data management, compliance management (GDPR, J-SOX, NIST, PCI-DSS, HIPAA).
 
-Developing cloud architectures and integration solutions, ensuring solutions excel in all five pillars (Cost Optimization, Peformance Efficiency, Operational Excellence, Reliability, Security).
+Developing cloud architectures and integration solutions, ensuring solutions deliver functionality to stakeholders, excel in all five non-functional "pillars" (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security) and aligned with overall organization architecture and objectives.
 
-Notable development projects:
+Notable solution development projects:
 
 •	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review);
 
@@ -29,7 +29,7 @@ Notable development projects:
 
 •	Lead Architect, cloud-based data protection and management solution (solution development, service development);
 
-•	Cloud Management Platform reference architecture development and market research (Hybrid Cloud: Azure Arc, Google Anthos);
+•	Cloud Management Platform reference architecture development and market research/PoC (Hybrid Cloud: Azure Arc, Google Anthos);
 
 •	OpenStack cloud Backup-as-a-Service data protection solution;
 
