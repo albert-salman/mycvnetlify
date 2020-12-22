@@ -16,6 +16,7 @@
         "Lean&DevOps(IaC, CI/CD, DevSecOps)",
         "Product Design & Development",
         "IT Service Design & Development",
+        "Workflow automation (Azure Logic Apps, Rundeck, AWS StepFunctions, StackStorm, Camunda/BPMN)",
         "Application Architecture (multi-tier, CQRS, batch, big data, microservices, serverless etc)",
         "Webapp Development (Javascript Vue.js, Python Flask)",
         "Databases RDBMS /NoSQL (document (Mongo etc), graph(Neo4j))",
