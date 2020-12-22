@@ -33,6 +33,7 @@ Project highlights:
 
 •	Roadmap development;
 
+
 \* note: diagram below my own one but do not contain any customer data
 +++ Click to show diagram
 ![Architecture](/assets/images/arch1.JPG)
