@@ -7,7 +7,7 @@
     "email": "albert.salman@entarch.ru",
     "telephone": "+7 927 456 72 02",
     "skills": [
-        "Systems Analysis & Engineering",
+        "Systems Analysis & Engineering (OMG Essense, ISOxxx)",
         "Strategy & Governance",
         "Enterprise Architecture (TOGAF, Archimate)",
         "Public Clouds (AWS, Azure, GCP, OCI)",
@@ -17,10 +17,11 @@
         "Product Design & Development",
         "IT Service Design & Development",
         "Workflow automation (Azure Logic Apps, Rundeck, AWS StepFunctions, StackStorm, Camunda/BPMN)",
+        "Data Analysis (Python, R)",
+        "Modelling notations (Archimate, BPMN, IDEF0, UML, SysML)",
         "Application Architecture (multi-tier, CQRS, batch, big data, microservices, serverless etc)",
         "Webapp Development (Javascript Vue.js, Python Flask)",
         "Databases RDBMS /NoSQL (document (Mongo etc), graph(Neo4j))",
-        "Data Analysis (Python, R)",
         "Soft Skills(Achieving Together,Changing and Improving,Commercial Focus,Developing Capability,Drive for Results,Emotional Resilience,Influence and Impact,Leading and Inspiring,Putting the Customer First,Thinking Analytically,Thinking Strategically)"
     ],
     "languages": [
