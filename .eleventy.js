@@ -32,16 +32,22 @@ module.exports = function (config) {
     config.addWatchTarget('./src/assets')
 
     // Markdown
-    config.setLibrary(
-        'md',
-        markdownIt({
-            html: true,
-            breaks: true,
-            linkify: true,
-            typographer: true
-        })
-    )
+    let markdownItCollapsible = require("markdown-it-collapsible");
 
+    let options = {
+        html: true,
+        breaks: true,
+        linkify: true,
+        typographer: true
+    };
+
+    let colopts = {
+    };
+
+    config.setLibrary("md", markdownIt(options)
+        .use(markdownItCollapsible, colopts)
+    );
+    
     // Layouts
     config.addLayoutAlias('base', 'base.njk')
     config.addLayoutAlias('resume', 'resume.njk')
