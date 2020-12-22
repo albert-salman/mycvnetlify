@@ -24,7 +24,7 @@ Using MSFT cloud adoption framework and Azure cloud reference architecture.
 
 Notable achievements:
 
-•	Switching to cloud IaaS and PaaS services, roadmap development for adoption of cloud technologies (Azure Logic Apps, API Management, Azure AD, Application Gateway, Load Balancer, Azure Firewall and NVAs, Storage and SQL services);
+•	Switching to cloud IaaS and PaaS services, roadmap development for adoption of cloud technologies (Azure Logic Apps, API Management, Azure AD, Application Gateway, Load Balancer, Azure Firewall and NVAs, Storage and SQL services, Azure DevOps, Azure Automation, Azure Blueprints, Kubernetes services, etc);
 
 •	Re-building provider credibility by ability to execute datacenter exit project in short timeframes in multi-platform environment;
 
