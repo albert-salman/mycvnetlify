@@ -9,7 +9,7 @@ end:
 
 ***Methodologies / practices***
 
-SAFe (and DaD/LeSS-aware), SRE, Lean, Anything as Code
+SAFe (and DaD/LeSS-aware), TOGAF/Archimate, SRE, Lean, Anything as Code
 
 ***Technologies***
 
