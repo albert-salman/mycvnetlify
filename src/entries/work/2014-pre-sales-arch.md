@@ -13,7 +13,7 @@ Cloud technologies, Business Continuity, Disaster Recovery, storage and data pro
 
 ***Description***
 
-Work in tight cooperation with pre-sales and sales to find out business and IT needs, provide solution consultancy, technical guidance, risk and cost estimations etc to close new deals and to ensure contract renewals.
+Work in tight cooperation with pre-sales and sales to find out business and IT needs, provide solution consultancy, technical guidance, risk and cost estimations etc to close new deals on new RFPs and to ensure contract renewals.
 
 Marketing and sales materials development (cost models, service descriptions, battle cards, brochures etc)
 
@@ -31,11 +31,9 @@ Having sector knowledge and business capability/function knowledge to earn credi
 
 Service and technology domain expertise;
 
-Understanding Fujitsu service offerings;
+Developing deep understanding of employer's offerings to correctly map to customer requirements during RFP/RFI stages, ensure tailoring (and its viability/feasibility e.g. cost/quality/timeline implications) if needed to close the deal;
 
 Applying policies, processes, procedures;
-
-Positive feedback from customer, Fujitsu accounts and sales team;
 
 Notable pre-sales projects:
 
