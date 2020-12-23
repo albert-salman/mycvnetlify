@@ -1,5 +1,5 @@
 ---
-title: Business agility practices technical developer
+title: Customer Solution Architect
 organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
