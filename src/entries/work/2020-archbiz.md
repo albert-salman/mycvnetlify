@@ -13,9 +13,11 @@ SAFe (and DaD/LeSS-aware), TOGAF/Archimate, SRE, Lean, Anything as Code
 
 ***Technologies***
 
-Clouds, XaaS, various IaC and CI/CD tools.
+Clouds, various technologies, XaaS, *-as-Code
 
 ***Description***
+
+Developing complex solutions for customers based on various standards, technologies and applying required methodologies, thinking strategically with customer-first mindset, ignoring hype/biased thiking/one-size-fits-all.
 
 Emerging business, data and application architecture competencies present to support enterprise cloud adoption initiatives (using vendor cloud adoption frameworks), business digitalization (cloud, AI/ML, big data, CI/CD, BI etc) support for all scales of IT landscapes (legacy and modern application environments on any stage of SDLC), migration projects execution (on-premise to cloud, cross-cloud, on-prem to on-prem).
 
