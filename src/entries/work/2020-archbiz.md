@@ -29,7 +29,7 @@ Notable achievements/activities:
 
 •	*-as-Code, Digital Twins, AI/ML, data exploration and visualization research;
 
-•	SAFe and *-as-Code practices author in corporate libraries;
+•	SAFe and *-as-Code practices author in corporate libraries (namely Policy- SysOps- SecOps- Docs-as-Code);
 
 •	SRE practices research (namely Chaos Engineering);
 
