@@ -4,7 +4,7 @@ organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2020-03-01
-end: 
+end: 2021-02-09
 ---
 
 ***Methodologies / practices***
