@@ -1,7 +1,7 @@
 ---
 title: Customer Solution Architect
 organization: GDC (Fujitsu GDC)
-organizationUrl: www.fujitsu.com/global/ 
+organizationUrl: https://www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2020-03-01
 end: 2021-02-09

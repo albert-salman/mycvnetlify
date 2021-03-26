@@ -1,7 +1,7 @@
 ---
 title: Cloud Architect
 organization: Orion Innovation (formerly MERA)
-organizationUrl: www.orioninc.com
+organizationUrl: https://www.orioninc.com
 location: Kazan, Russia
 start: 2021-02-11
 end: 

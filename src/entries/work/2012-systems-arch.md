@@ -1,7 +1,7 @@
 ---
 title: Systems Architect
 organization: GDC (Fujitsu GDC)
-organizationUrl: www.fujitsu.com/global/ 
+organizationUrl: https://www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2012-08-01
 end: 2014-06-01
