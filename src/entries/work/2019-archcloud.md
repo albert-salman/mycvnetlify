@@ -1,10 +1,10 @@
 ---
-title: Cloud architect (AWS, Azure, GCP, OCI)
+title: Cloud architect (Azure, AWS, OCI, GCP)
 organization: GDC (Fujitsu GDC)
 organizationUrl: https://www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2017-01-01
-end: 
+end: 2021-02-09
 ---
 
 ***Methodologies / practices***
