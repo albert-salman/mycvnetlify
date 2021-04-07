@@ -1,7 +1,7 @@
 ---
 title: Lead Architect, cloud data management solution
 organization: GDC (Fujitsu GDC)
-organizationUrl: www.fujitsu.com/global/ 
+organizationUrl: https://www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2016-11-01
 end: 2017-11-01 
@@ -19,7 +19,7 @@ AWS/Azure cloud IaaS, Commvault data management software, Fujitsu compute and st
 
 Project highlights:
 
-•	No single direct customer present (due to cloud nature) so requirements were collected from industry standards and future vision, then evaluated with potential customers and specified based on their feedback;
+•	No single direct customer present (due to cloud nature) so requirements were collected from industry standards and future vision, then evaluated with potential customers and detailed based on their feedback;
 
 •	Customer requirements management and traceability control within the solution; 
 

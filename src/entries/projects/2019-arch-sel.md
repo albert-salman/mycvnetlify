@@ -4,7 +4,7 @@ organization: GDC (Fujitsu GDC)
 organizationUrl: www.fujitsu.com/global/ 
 location: Kazan, Russia
 start: 2019-01-01
-end: 2019-12-31
+end: 2021-02-09
 ---
 
 ***Methodologies / practices***
@@ -26,7 +26,7 @@ Notable achievements:
 
 •	Switching to cloud IaaS and PaaS services, roadmap development for adoption of cloud technologies (Azure Logic Apps, API Management, Azure AD, Application Gateway, Load Balancer, Azure Firewall and NVAs, Storage and SQL services, Azure DevOps, Azure Automation, Azure Blueprints, Kubernetes services, etc);
 
-•	Re-building provider credibility by ability to execute datacenter exit project in short timeframes in multi-platform environment;
+•	Re-building service provider credibility by ability to execute datacenter exit project in short timeframes in multi-platform environment;
 
 •	Building and using own infrastructure assessment and whole IT landscape visualization toolset (ThiTool);
 
