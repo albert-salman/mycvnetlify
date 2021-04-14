@@ -9,7 +9,7 @@ end:
 
 ***Methodologies / practices***
 
-SCRUM, DDD, BDD
+SCRUM, DDD
 
 ***Technologies***
 
@@ -17,5 +17,5 @@ AWS Cloud
 
 ***Description***
 
-AWS Cloud Architect for SaaS platform. Under NDA so no details.
-Architecting SaaS solution architecture addressing functional feature requirements and ensuring solution excel in all five non-functional “pillars” (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security). Designing AWS platform governance, global solution architecture based on multiple AWS regions, IoT, microservices+serverless architecture, Disaster Recovery.
+Under NDA so no details.
+Architecting solution which address functional feature requirements and ensuring it to excel in all five non-functional “pillars” (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security).
