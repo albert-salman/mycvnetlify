@@ -15,6 +15,8 @@ Cloud technologies, Business Continuity, Disaster Recovery, storage and data pro
 
 Work in tight cooperation with pre-sales and sales to find out business and IT needs, provide solution consultancy, technical guidance, risk and cost estimations etc to close new deals on new RFPs and to ensure contract renewals.
 
+Constantly seeking and evaluating upsale opportunities (products, services, projects) from provider to customers.
+
 Marketing and sales materials development (cost models, service descriptions, battle cards, brochures etc)
 
 Understanding customers’ business and commercial issues and contributing key insights;
