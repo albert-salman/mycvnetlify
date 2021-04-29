@@ -1,5 +1,5 @@
 ---
-title: Cloud Architect
+title: Cloud Architect / DevOps Lead
 organization: Orion Innovation (formerly MERA)
 organizationUrl: https://www.orioninc.com
 location: Kazan, Russia

@@ -29,7 +29,7 @@ Notable solution development projects:
 
 •	Lead Architect, cloud-based data protection and management solution (solution development, service development);
 
-•	Cloud Management Platform reference architecture development and market research/PoC (Hybrid Cloud: Azure Arc, Google Anthos);
+•	Cloud Management Platform reference architecture development and market research/PoC (Hybrid Cloud: Azure Arc (for Servers, for Kubernetes, Data Services, API Management), Google Anthos, AWS Outposts);
 
 •	OpenStack cloud Backup-as-a-Service data protection solution;
 
@@ -37,4 +37,6 @@ Notable integration projects:
 
 •	Azure Monitor to ServiceNow custom alerting integration using Azure Logic Apps, REST APIs etc;
 
-•	vRealize to ServiceNow alerting integration (using incoming and outgoing Web Services (REST APIs), ServiceNow Business Rules and Scheduled Jobs, custom integration watchdog mechanism);
+•   Azure DevOps with ServiceNow Change Management integration for CD (release) pipelines (with plugin customization for own needs);
+
+•	vRealize to ServiceNow alerting integration application developement (MVC app on Python Flask - using incoming and outgoing Web Services (REST APIs), ServiceNow Business Rules and Scheduled Jobs, custom integration watchdog mechanism);
