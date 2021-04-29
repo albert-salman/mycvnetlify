@@ -19,6 +19,7 @@
         "Testing (TDD, BDD)",
         "Product Design & Development",
         "IT Service Design & Development",
+        "Monitoring, logs management (ELK/Elasticstack, Azure Monitor, AWS Cloudwatch/Cloudtrail etc etc)",
         "Workflow automation (Azure Logic Apps, Rundeck, AWS StepFunctions, StackStorm, Camunda/BPMN)",
         "Data Analysis (Python, R)",
         "Modelling notations (Archimate, BPMN, IDEF0, UML, SysML)",

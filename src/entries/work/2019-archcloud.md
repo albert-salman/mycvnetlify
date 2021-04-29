@@ -33,6 +33,8 @@ Notable solution development projects:
 
 •	OpenStack cloud Backup-as-a-Service data protection solution;
 
+•	Traffic monitoring and visualization (ELK, sniffers for different platforms, collectors + open source code customization);
+
 Notable integration projects:
 
 •	Azure Monitor to ServiceNow custom alerting integration using Azure Logic Apps, REST APIs etc;
