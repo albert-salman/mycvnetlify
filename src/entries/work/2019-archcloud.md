@@ -21,6 +21,10 @@ Various IT governance, architecture, project management and ITSM competencies fa
 
 Developing cloud architectures and integration solutions, ensuring solutions deliver functionality to stakeholders, excel in all five non-functional "pillars" (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security) and aligned with overall organization architecture and objectives.
 
+Notable service development projects:
+
+•	Service Architect: Hybrid IT services development (solution support, cloud management, cloud optimization (performance, cost), cloud security, DevOps services);
+
 Notable solution development projects:
 
 •	Cloud Adoption and transformation architect (customer transformation and migration advisory methodology development, Cloud Adoption Framework development based on internal and vendor ones (AWS, Azure, Google), migration blueprint quality review);
