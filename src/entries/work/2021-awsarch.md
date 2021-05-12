@@ -19,3 +19,4 @@ AWS Cloud
 
 Under NDA so no details.
 Architecting solution which address functional feature requirements and ensuring it to excel in all five non-functional “pillars” (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security).
+Leading and managing DevOps team for software development support, CICD, platform governance, infrastructure management and automation.

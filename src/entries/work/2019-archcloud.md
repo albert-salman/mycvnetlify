@@ -1,5 +1,5 @@
 ---
-title: Cloud architect (Azure, AWS, OCI, GCP)
+title: Cloud architect / Service Architect
 organization: GDC (Fujitsu GDC)
 organizationUrl: https://www.fujitsu.com/global/ 
 location: Kazan, Russia
@@ -19,7 +19,7 @@ AWS/Azure/GCP/OCI public clouds, VMware/Openstack private clouds, ServiceNow
 
 Various IT governance, architecture, project management and ITSM competencies fall mainly in cloud adoption and hybrid cloud solution architecture, business agility support by means of applying Scaled Agile (SAFe, DaD/LeSS-aware) and Lean (DevOps) practices and methodologies as well as proven EA (TOGAF) and systems engineering (OMG, ISO etc), application modernization (for apps on any stage of SDLC), datacenter optimization and strategy development, disaster recovery / business continuity, information/data management, compliance management (GDPR, J-SOX, NIST, PCI-DSS, HIPAA).
 
-Developing cloud architectures and integration solutions, ensuring solutions deliver functionality to stakeholders, excel in all five non-functional "pillars" (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security) and aligned with overall organization architecture and objectives.
+Developing cloud architectures and integration solutions, ensuring solutions deliver functionality to stakeholders, excel in all five non-functional "pillars" (Cost Optimization, Performance Efficiency, Operational Excellence, Reliability, Security) and aligned with overall organization architecture and objectives. Customer engagement, identifying stakeholders across the organization and beyond (internal\external stakeholders and roles), their real needs (not only ones directly communicated, perceiving what is system of interest/using system/enabling system/systems in operating environment etc);
 
 Notable service development projects:
 
