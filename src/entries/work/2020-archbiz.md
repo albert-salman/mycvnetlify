@@ -9,7 +9,7 @@ end: 2021-02-09
 
 ***Methodologies / practices***
 
-SAFe (and DaD/LeSS-aware), TOGAF/Archimate, SRE, Lean, Anything as Code
+SAFe (and Nexus/DaD/LeSS-aware), TOGAF/Archimate, SRE, Lean, Anything as Code
 
 ***Technologies***
 
