@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ meta.lang }}">
+<head>
+    {% include "meta.njk" %}
+    <link rel="preload" href="{{ '/assets/fonts/butler-medium.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}">
+    <meta name="yandex-verification" content="526a94a9084c4b81" />
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(70759714, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript>
+<div><img src="https://mc.yandex.ru/watch/70759714" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body {% if meta.colors %}style="{{ meta.colors | themeColors }}"{% endif %}>
+    <div data-icon-sprite hidden>{% iconsprite %}</div>
+
+    <div class="layout h-resume" role="document">
+        {% include "header.njk" %}
+        {{ content | safe }}
+        {% include "sidebar.njk" %}
+        {% include "footer.njk" %}
+    </div>
+
+    <script type="text/javascript" src="{{ '/assets/scripts/main.js' | url }}"></script>
+    <!--! LAST BUILD: {{ build.env}} {{ build.timestamp | dateToISO }} -->
+</body>
+</html>

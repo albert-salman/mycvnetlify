@@ -1,0 +1,17 @@
+{
+    "titles": {
+        "experience": "Work Experience",
+        "education": "Education & Trainings (worth mentioning)",
+        "certification": "Certification (worth mentioning)",
+        "projects": "Projects (recent and worth mentioning)",
+        "skills": "Skills",
+        "languages": "Languages"
+    },
+    "labels": {
+        "email": "Email",
+        "telephone": "Telephone",
+        "print": "Print Résumé",
+        "present": "Present",
+        "lastUpdated": "Last updated"
+    }
+}

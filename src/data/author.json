@@ -1,0 +1,67 @@
+{
+    "name": "Albert Salman",
+    "occupation": "IT Architect / IT Consultant",
+    "location": "Kazan, Russia",
+    "avatar": "avatar.jpg",
+    "pronouns": "",
+    "email": "albert.salman@entarch.ru",
+    "telephone": "+7 927 456 72 02",
+    "skills": [
+        "Systems Analysis & Engineering (OMG Essense, ISOxxx)",
+        "Strategy & Governance",
+        "Enterprise Architecture (TOGAF, Archimate)",
+        "Public Clouds (AWS, Azure, GCP, OCI)",
+        "Private Clouds (VMware, Microsoft, Openstack)",
+        "Datacenters (compute, networks, storage)",
+        "Agile (SAFe, Kanban, Scrum)",
+        "Lean (increasing flow, fast feedback/feedforward, continuous improvement)",
+        "DevOps practices (CI/CD approaches, CI/CD tools (Azure DevOps, GitLab, Jenkins), IaC, IaC tools, configuration management/orchestration tools, DevSecOps)",
+        "Data & Analytics (data lakes, streaming analytics, batch analytics, ETL)",
+        "Data Science & MLOps (ML model lifecycle automation, CI/CD, data preprocessing, model training, model deployment)",
+        "Data Analysis (Python, R)",
+        "Testing (TDD, BDD)",
+        "Product Design & Development",
+        "IT Service Design & Development",
+        "Monitoring, logs management (ELK/Elasticstack, Azure Monitor, AWS Cloudwatch/Cloudtrail etc etc)",
+        "Workflow automation (Azure Logic Apps, Rundeck, AWS StepFunctions, StackStorm, Camunda/BPMN)",
+        "Modelling notations (Archimate, BPMN, IDEF0, UML, SysML)",
+        "Application Architecture (multi-tier, batch/HPC, big data, microservices, serverless etc)",
+        "Container Orchestration (AWS ECS, EKS/AKS-AKE/Kubernetes, nomad, Mesos/DC OS)",
+        "Webapp Development (Javascript Vue.js, Python Flask)",
+        "Software Development (Java, Python)",
+        "Databases RDBMS /NoSQL (key-value (DynamoDB), document (Mongo etc), graph(Neo4j))",
+        "Soft Skills(Achieving Together,Changing and Improving,Commercial Focus,Developing Capability,Drive for Results,Emotional Resilience,Influence and Impact,Leading and Inspiring,Putting the Customer First,Thinking Analytically,Thinking Strategically, Out-of-the-box Thinking)"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "professional proficiency"
+        },
+        {
+            "name": "Russian",
+            "level": "native"
+        }
+    ],
+    "social": [
+        {
+            "name": "LinkedIn",
+            "user": "AlbertVSalman",
+            "url": "https://www.linkedin.com/in/albertvsalman"
+        },
+        {
+            "name": "Skype",
+            "user": "zhjuve",
+            "url": "skype:zhjuve?chat"
+        },
+        {
+            "name": "WhatsApp",
+            "user": "Albert Salman",
+            "url": "https://wa.me/79047672607"
+        },
+        {
+            "name": "Telegram",
+            "user": "Albert.Salman",
+            "url": "https://t.me/albertsalman"
+        }
+    ]
+}
