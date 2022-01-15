@@ -13,9 +13,10 @@ SCRUM
 
 ***Technologies***
 
-AWS Cloud
+AWS Cloud (IaaS/PaaS services, AI/ML services, data&analytics services), terraform/terragrunt, Python, APIs
 
 ***Description***
+Architecting, developing and implementing solutions on AWS cloud. 
 
 Medical company's data lake architecture team member:
 
@@ -23,7 +24,7 @@ Medical company's data lake architecture team member:
 
 •	MLOps solution development (SageMaker, MLflow, AWS MLOps framework, AWS Batch);
 
-•	PII Data scanning solution development (research, evaluate, then design and implement based on AWS Macie)
+•	PII Data scanning solution development (market research, evaluate, then design and implement based on AWS Macie)
 
 •	AWS Glue cost analysis based on config and metrics
 
